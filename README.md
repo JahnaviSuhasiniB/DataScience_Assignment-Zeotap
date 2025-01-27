@@ -1,5 +1,7 @@
 Data Science Assignment: Zeotap
+
 Overview
+
 This repository contains the data science assignment for Zeotap. The project involves exploring, analyzing, and clustering data to derive insights and build a lookalike model.
 
 Files in the Repository
